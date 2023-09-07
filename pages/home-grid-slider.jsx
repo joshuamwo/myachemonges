@@ -106,7 +106,7 @@ const HomeGridSlider = () => {
                       className="name splitting-text-anim-1"
                       data-splitting="chars"
                     >
-                      Blue denim
+                      Right to be Human
                     </span>
                   </span>
                 </a>

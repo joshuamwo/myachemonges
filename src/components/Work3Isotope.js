@@ -176,7 +176,7 @@ const Work3Isotope = () => {
                     <span className="img">
                       <img
                         src="assets/images/started-n15-900x600.jpg"
-                        alt="Blue denim"
+                        alt="Right to be Human"
                       />
                     </span>
                   </span>
@@ -193,7 +193,7 @@ const Work3Isotope = () => {
                       data-splitting="words"
                       data-animate="active"
                     >
-                      Blue denim
+                      Right to be Human
                     </span>
                   </span>
                 </a>

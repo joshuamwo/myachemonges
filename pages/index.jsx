@@ -76,7 +76,7 @@ const Index = () => {
                         className="title-inner splitting-text-anim-2"
                         data-splitting=""
                       >
-                        Blue denim
+                        Right to be Human
                       </span>
                     </div>
                     <div className="subtitle scrolla-element-anim-1">

@@ -26,7 +26,7 @@ const WorkSingle = () => {
                     data-splitting="chars"
                     data-animate="active"
                   >
-                    Astronaut
+                    Chemonges
                   </div>
                 </div>
               </div>
@@ -228,7 +228,7 @@ const WorkSingle = () => {
                         data-splitting="chars"
                         data-animate="active"
                       >
-                        Astronaut
+                        Chemonges
                       </span>
                     </a>
                   </Link>

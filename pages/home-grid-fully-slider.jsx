@@ -179,7 +179,7 @@ const HomeGridFullySlider = () => {
                       className="name splitting-text-anim-1"
                       data-splitting="chars"
                     >
-                      Astronaut
+                      Chemonges
                     </span>
                   </span>
                 </a>
@@ -214,7 +214,7 @@ const HomeGridFullySlider = () => {
                       className="name splitting-text-anim-1"
                       data-splitting="chars"
                     >
-                      Astronaut
+                      Chemonges
                     </span>
                   </span>
                 </a>

@@ -38,7 +38,7 @@ const HomeGridSlider = () => {
                       className="name splitting-text-anim-1"
                       data-splitting="chars"
                     >
-                      Astronaut
+                      Chemonges
                     </span>
                   </span>
                 </a>

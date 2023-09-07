@@ -78,7 +78,7 @@ const PortfolioIsotope = () => {
                       <span className="img">
                         <img
                           src="assets/images/started-n12-900x1170.jpg"
-                          alt="Astronaut"
+                          alt="Chemonges"
                         />
                       </span>
                     </span>
@@ -95,7 +95,7 @@ const PortfolioIsotope = () => {
                         data-splitting="words"
                         data-animate="active"
                       >
-                        Astronaut
+                        Chemonges
                       </span>
                     </span>
                   </a>

@@ -246,7 +246,7 @@ const Header = () => {
                         </Link>
                       </li> */}
                       <li className="menu-item">
-                        <Link legacyBehavior href="/blog">
+                        <Link legacyBehavior href="/">
                           <a
                             className="splitting-text-anim-2"
                             data-splitting="chars"

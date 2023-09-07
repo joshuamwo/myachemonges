@@ -74,8 +74,8 @@ const App = ({ Component, pageProps }) => {
 	
 	<![endif]*/}
         {/* Favicon */}
-        <link rel="shortcut icon" href="favicon.ico" type="image/x-icon" />
-        <link rel="icon" href="favicon.ico" type="image/x-icon" />
+        <link rel="shortcut icon" href="favicon.png" type="image/x-icon" />
+        <link rel="icon" href="favicon.png" type="image/x-icon" />
       </Head>
       {loader && <Preloader />}
       <Component {...pageProps} />

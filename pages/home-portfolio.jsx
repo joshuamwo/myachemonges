@@ -23,8 +23,8 @@ const HomePortfolio = () => {
                     className="m-title scrolla-element-anim-1 scroll-animate"
                     data-animate="active"
                   >
-                    We are Digital Agency <br />
-                    Startup Studio
+                    We are Mya Chemonges <br />
+                    Me, Myself and My Mind
                   </div>
                 </div>
               </div>
@@ -34,9 +34,8 @@ const HomePortfolio = () => {
                   data-animate="active"
                 >
                   <p>
-                    A Los Angeles based studio building handcrafted websites
-                    <br />
-                    and brands for companies and all over the world.
+                    The power to change the world is within each of us. It
+                    starts with a single step. <br />
                   </p>
                 </div>
               </div>

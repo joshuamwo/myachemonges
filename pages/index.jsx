@@ -26,7 +26,7 @@ const Index = () => {
                 <div className="col-xs-12 col-sm-12 col-md-12 col-lg-12">
                   {/* title */}
                   <div className="titles dark">
-                    <div className="label scrolla-element-anim-1">branding</div>
+                    <div className="label scrolla-element-anim-1">KENYANS</div>
                     <div className="title">
                       <span
                         className="title-inner splitting-text-anim-2"
@@ -37,9 +37,8 @@ const Index = () => {
                       </span>
                     </div>
                     <div className="subtitle scrolla-element-anim-1">
-                      Creativity is to discover a question that has never been
-                      asked. If one brings up an idiosyncratic question, the
-                      answer he gives will necessarily be unique as well.
+                      Diversity is the one true thing we all have in common.
+                      Celebrate it every day
                     </div>
                   </div>
                   <div className="more-bts">
@@ -70,7 +69,7 @@ const Index = () => {
                 <div className="col-xs-12 col-sm-12 col-md-12 col-lg-12">
                   {/* title */}
                   <div className="titles">
-                    <div className="label scrolla-element-anim-1">branding</div>
+                    <div className="label scrolla-element-anim-1">KENYANS</div>
                     <div className="title">
                       <span
                         className="title-inner splitting-text-anim-2"
@@ -80,9 +79,8 @@ const Index = () => {
                       </span>
                     </div>
                     <div className="subtitle scrolla-element-anim-1">
-                      Creativity is to discover a question that has never been
-                      asked. If one brings up an idiosyncratic question, the
-                      answer he gives will necessarily be unique as well.
+                      The future belongs to those who believe in the beauty of
+                      their dreams
                     </div>
                   </div>
                   <div className="more-bts">
@@ -124,9 +122,8 @@ const Index = () => {
                       </span>
                     </div>
                     <div className="subtitle scrolla-element-anim-1">
-                      Creativity is to discover a question that has never been
-                      asked. If one brings up an idiosyncratic question, the
-                      answer he gives will necessarily be unique as well.
+                      Diversity is the one true thing we all have in common.
+                      Celebrate it every day
                     </div>
                   </div>
                   <div className="more-bts">
@@ -168,9 +165,8 @@ const Index = () => {
                       </span>
                     </div>
                     <div className="subtitle scrolla-element-anim-1">
-                      Creativity is to discover a question that has never been
-                      asked. If one brings up an idiosyncratic question, the
-                      answer he gives will necessarily be unique as well.
+                      Diversity is the one true thing we all have in common.
+                      Celebrate it every day
                     </div>
                   </div>
                   <div className="more-bts">

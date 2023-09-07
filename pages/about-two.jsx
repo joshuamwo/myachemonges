@@ -51,10 +51,7 @@ const AboutTwo = () => {
                     enough that we build products that function, that are
                     understandable and usable, we also need to build products
                     that bring joy and excitement, pleasure and fun, and, yes,
-                    beauty to people’s lives. Creativity is to discover a
-                    question that has never been asked. If one brings up an
-                    idiosyncratic question, the answer he gives will necessarily
-                    be unique as well.
+                    beauty to people’s lives. Our roots give us strength, but it's our actions that define our legacy
                   </p>
                 </div>
               </div>

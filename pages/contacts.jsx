@@ -120,7 +120,7 @@ const Contacts = () => {
                         <i aria-hidden="true" className="fas fa-at" />
                       </div>
                       <div className="name">E-mail:</div>
-                      <div className="text">aster@domain.com</div>
+                      <div className="text">myachememonges@domain.com</div>
                     </div>
                   </div>
                   <div className="services-col col-xs-12 col-sm-6 col-md-6 col-lg-4">

@@ -52,13 +52,9 @@ const About = () => {
                 </h1>
               </div>
               <div className="col-xs-12 col-sm-12 col-md-12 col-lg-6">
-                A Los Angeles based studio building handcrafted websites and
-                brands for companies and all over the world. It is not enough
-                that we build products that function, that are understandable
-                and usable, we also need to build products that bring joy and
-                excitement, pleasure and fun, and, yes, beauty to people’s
-                lives. Creativity is to discover a question that has never been
-                asked. If one brings up an idiosyncratic questionl.
+                Injustice anywhere is a threat to justice everywhere. Creativity
+                is to discover a question that has never been asked. If one
+                brings up an idiosyncratic questionl.
               </div>
               <div className="col-xs-12 col-sm-12 col-md-12 col-lg-6">
                 The development of digital marketing is inseparable from

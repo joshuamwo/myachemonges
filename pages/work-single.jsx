@@ -19,7 +19,7 @@ const WorkSingle = () => {
                     data-splitting="chars"
                     data-animate="active"
                   >
-                    Photography
+                    Scotland
                   </div>
                   <div
                     className="h-title splitting-text-anim-2 scroll-animate"
@@ -57,7 +57,7 @@ const WorkSingle = () => {
                 </div>
                 <div className="col-xs-12 col-sm-12 col-md-3 col-lg-3">
                   <div className="details-label">
-                    <strong>Category</strong> Photography
+                    <strong>Category</strong> Scotland
                   </div>
                 </div>
                 <div className="col-xs-12 col-sm-12 col-md-3 col-lg-3">
@@ -94,13 +94,8 @@ const WorkSingle = () => {
                   data-animate="active"
                 >
                   <p>
-                    It is not enough that we build products that function, that
-                    are understandable and usable, we also need to build
-                    products that bring joy and excitement, pleasure and fun,
-                    and, yes, beauty to people’s lives. Creativity is to
-                    discover a question that has never been asked. If one brings
-                    up an idiosyncratic question, the answer he gives will
-                    necessarily be unique as well.
+                    Diversity is the one true thing we all have in common.
+                    Celebrate it every day
                   </p>
                 </div>
               </div>
@@ -174,18 +169,19 @@ const WorkSingle = () => {
                   data-animate="active"
                 >
                   <p>
-                    It is not enough that we build products that function, that
-                    are understandable and usable, we also need to build
-                    products that bring joy and excitement, pleasure and fun,
-                    and, yes, beauty to people’s lives. Creativity is to
-                    discover a question that has never been asked. If one brings
-                    up an idiosyncratic question, the answer he gives will
-                    necessarily be unique as well.
+                    "Strength does not come from the body. It comes from the
+                    will." - Mahatma Gandhi "Education is the most powerful
+                    weapon which you can use to change the world." - Nelson
+                    Mandela "Never doubt that a small group of thoughtful,
+                    committed citizens can change the world; indeed, it's the
+                    only thing that ever has." - Margaret Mead "Hope is the
+                    heartbeat of the soul." - Michelle Horst "The greatest glory
+                    in living lies not in never falling, but in rising every
+                    time we fall." - Nelson Mandela
                   </p>
                   <p>
-                    Creativity is to discover a question that has never been
-                    asked. If one brings up an idiosyncratic question, the
-                    answer he gives will necessarily be unique as well.
+                    Diversity is the one true thing we all have in common.
+                    Celebrate it every day
                   </p>
                 </div>
               </div>

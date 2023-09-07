@@ -100,7 +100,7 @@ const HomeGridSlider = () => {
                       className="subname splitting-text-anim-1"
                       data-splitting="chars"
                     >
-                      branding
+                      KENYAN
                     </span>
                     <span
                       className="name splitting-text-anim-1"

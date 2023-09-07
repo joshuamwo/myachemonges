@@ -55,7 +55,7 @@ const Blog = () => {
                       </div>
                       <div className="title">
                         <Link legacyBehavior href="blog-single">
-                          <a>How to Do Panning Photography</a>
+                          <a>How to Do Panning Scotland</a>
                         </Link>
                       </div>
                       <div className="text">
@@ -157,7 +157,7 @@ const Blog = () => {
                       </div>
                       <div className="title">
                         <Link legacyBehavior href="blog-single">
-                          <a>3 Ways To Level Up Your Photography</a>
+                          <a>3 Ways To Level Up Your Scotland</a>
                         </Link>
                       </div>
                       <div className="text">
@@ -244,7 +244,7 @@ const Blog = () => {
                         <ul>
                           <li>
                             <a href="#">
-                              3 Ways To Level Up Your Photography Skills of
+                              3 Ways To Level Up Your Scotland Skills of
                               Wildlife
                             </a>
                           </li>
@@ -260,7 +260,7 @@ const Blog = () => {
                           </li>
                           <li>
                             <a href="#">
-                              How to Do Panning Photography Nam mollierap ibus
+                              How to Do Panning Scotland Nam mollierap ibus
                             </a>
                           </li>
                         </ul>

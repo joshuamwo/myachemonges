@@ -17,8 +17,8 @@ const Footer = () => {
                   className="h-text scrolla-element-anim-1 scroll-animate"
                   data-animate="active"
                 >
-                  Ridgewood Queens, <br />
-                  NY 11385, USA
+                  Somewhere on Scotland, <br />
+                  SC 11385, SCOTLAND
                 </div>
               </div>
             </div>
@@ -82,9 +82,9 @@ const Footer = () => {
                   data-animate="active"
                 >
                   <p>
-                    asteragency@domain.com
+                    myachemonges@domain.com
                     <br />
-                    +012 (234) 567 78
+                    +012 (000) 000 00
                   </p>
                 </div>
               </div>
@@ -94,7 +94,7 @@ const Footer = () => {
                 className="copyright-text scrolla-element-anim-1 scroll-animate"
                 data-animate="active"
               >
-                Copyright © 2022 Aster
+                Copyright © 2022 Yullu
               </div>
             </div>
           </div>

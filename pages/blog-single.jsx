@@ -27,7 +27,7 @@ const BlogSingle = () => {
                     data-splitting="chars"
                     data-animate="active"
                   >
-                    How to Do Panning Photography
+                    How to Do Panning Scotland
                   </div>
                 </div>
               </div>
@@ -64,8 +64,7 @@ const BlogSingle = () => {
                   </p>
                   <blockquote>
                     <p>
-                      Photography is the story I fail to put into words get{" "}
-                      <br />
+                      Scotland is the story I fail to put into words get <br />
                       ligula vel, commodo luctus felis. Ut dignissim sapien{" "}
                       <br />
                       sit amet molestie rutr

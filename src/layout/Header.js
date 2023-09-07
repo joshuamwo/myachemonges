@@ -133,7 +133,7 @@ const Header = () => {
                           </li>
                         </ul>
                       </li>
-                      <li
+                      {/* <li
                         className={`menu-item menu-item-has-children has-children ${subMenuOpened(
                           "about"
                         )}`}
@@ -244,7 +244,7 @@ const Header = () => {
                             Contact
                           </a>
                         </Link>
-                      </li>
+                      </li> */}
                       <li className="menu-item">
                         <Link legacyBehavior href="/blog">
                           <a

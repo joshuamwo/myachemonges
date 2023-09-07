@@ -50,13 +50,13 @@ const Gallery2Isotope = () => {
               onClick={handleFilterKeyChange("sorting-photography")}
               data-filter="sorting-photography"
             >
-              Photography
+              Scotland
             </a>
             <a
               onClick={handleFilterKeyChange("sorting-branding")}
               data-filter="sorting-branding"
             >
-              Branding
+              KENYANS
             </a>
             <a
               onClick={handleFilterKeyChange("sorting-art")}
@@ -87,7 +87,7 @@ const Gallery2Isotope = () => {
                       data-splitting="chars"
                       data-animate="active"
                     >
-                      Photography
+                      Scotland
                     </span>
                     <span
                       className="name splitting-text-anim-4 scroll-animate"
@@ -156,7 +156,7 @@ const Gallery2Isotope = () => {
                       data-splitting="chars"
                       data-animate="active"
                     >
-                      Branding
+                      KENYANS
                     </span>
                     <span
                       className="name splitting-text-anim-4 scroll-animate"
@@ -192,7 +192,7 @@ const Gallery2Isotope = () => {
                       data-splitting="chars"
                       data-animate="active"
                     >
-                      Branding
+                      KENYANS
                     </span>
                     <span
                       className="name splitting-text-anim-4 scroll-animate"

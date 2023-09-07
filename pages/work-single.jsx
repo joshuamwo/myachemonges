@@ -19,7 +19,7 @@ const WorkSingle = () => {
                     data-splitting="chars"
                     data-animate="active"
                   >
-                    Scotland
+                    Scotland's
                   </div>
                   <div
                     className="h-title splitting-text-anim-2 scroll-animate"
@@ -52,22 +52,22 @@ const WorkSingle = () => {
               <div className="row">
                 <div className="col-xs-12 col-sm-12 col-md-3 col-lg-3">
                   <div className="details-label">
-                    <strong>Client</strong> Envato
+                    <strong>By</strong> Mya
                   </div>
                 </div>
                 <div className="col-xs-12 col-sm-12 col-md-3 col-lg-3">
                   <div className="details-label">
-                    <strong>Category</strong> Scotland
+                    <strong>Location</strong> Scotland
                   </div>
                 </div>
                 <div className="col-xs-12 col-sm-12 col-md-3 col-lg-3">
                   <div className="details-label">
-                    <strong>Year</strong> 2020
+                    <strong>Year</strong> 2023
                   </div>
                 </div>
                 <div className="col-xs-12 col-sm-12 col-md-3 col-lg-3">
                   <div className="details-label">
-                    <strong>Website</strong> bslthemes.com
+                    <strong>Website</strong> myachemonges.com
                   </div>
                 </div>
               </div>

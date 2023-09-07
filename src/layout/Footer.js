@@ -94,7 +94,7 @@ const Footer = () => {
                 className="copyright-text scrolla-element-anim-1 scroll-animate"
                 data-animate="active"
               >
-                Copyright © 2022 Yullu
+                Copyright © 2023 Yullu
               </div>
             </div>
           </div>
